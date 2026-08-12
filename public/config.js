@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "2af5b42b81895fa4e949e05203e3fa51",
   "VITE_APP_NAME": "VALIS Terminal",
   "VITE_APP_DESCRIPTION": "The Ultimate Multi-Chain Trading Terminal. Trade Spot, 50x Perps, and bridge assets seamlessly across all major chains.",
   "VITE_HAS_PRIMARY_LOGO": "true",
